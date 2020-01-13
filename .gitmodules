@@ -1,3 +1,6 @@
 [submodule "hugotry/themes/sam"]
 	path = hugotry/themes/sam
 	url = https://github.com/victoriadrake/hugo-theme-sam.git
+[submodule "personal-website/themes/hello-friend-ng"]
+	path = personal-website/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
