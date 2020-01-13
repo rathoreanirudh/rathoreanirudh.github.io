@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Personal Site"
+theme = "sam"
+[[params.mainMenu]]
+    link = "posts/"
+    text = "Posts"
+[[params.mainMenu]]
+    link = "about.md"
+    text = "Resume"
+[[params.mainMenu]]
+    link = "https://www.linkedin.com/in/rathoreanirudh/"
+    text = "Linkedin"
+[[params.mainMenu]]
+    link = "https://github.com/rathoreanirudh" 
+    text = "Github"
