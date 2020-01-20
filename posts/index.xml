@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Anirudh Rathore</title>
+        <link>https://rathoreanirudh.github.io/posts/</link>
+        <description>Recent content in Posts on Anirudh Rathore</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 19 Jan 2020 18:16:21 -0700</lastBuildDate>
+        <atom:link href="https://rathoreanirudh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Human Decisions Machine Predictions Reading</title>
+            <link>https://rathoreanirudh.github.io/posts/2020/01/human-decisions-machine-predictions-reading/</link>
+            <pubDate>Sun, 19 Jan 2020 18:16:21 -0700</pubDate>
+            
+            <guid>https://rathoreanirudh.github.io/posts/2020/01/human-decisions-machine-predictions-reading/</guid>
+            <description>This post is for my human centered machine learning class. We are required to read a paper every week and write a summary for it. I am trying to make a habit of writing this blog describing the papers I read.</description>
+            <content type="html"><![CDATA[<p>This post is for my human centered machine learning class. We are required to read a paper every week and write a summary for it. I am trying to make a habit of writing this blog describing the papers I read.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
