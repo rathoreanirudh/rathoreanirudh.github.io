@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/anirudh/Downloads/anirudh_docs/rathoreanirudh.github.io/personal-website",
+	"sourceRoot": "/Users/anirudh/Downloads/anirudh_docs/personal-website",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
