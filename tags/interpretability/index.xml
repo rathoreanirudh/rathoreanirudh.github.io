@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anirudh Rathore</title>
-    <link>https://rathoreanirudh.github.io/</link>
-    <description>Recent content on Anirudh Rathore</description>
+    <title>interpretability on Anirudh Rathore</title>
+    <link>https://rathoreanirudh.github.io/tags/interpretability/</link>
+    <description>Recent content in interpretability on Anirudh Rathore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jan 2020 16:36:05 -0700</lastBuildDate>
     
-	<atom:link href="https://rathoreanirudh.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rathoreanirudh.github.io/tags/interpretability/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://rathoreanirudh.github.io/posts/2020/01/interpretable-machine-learning-murdoch/</guid>
       <description>This is the second reading of my week. Actually my first in-depth reading. I plan to do research in interpretable machine learning and trying to understand what causes bias to creep into the machine learning models.
 In addition to prediction, models are capable of producing knowledge about domain relationships contained in the data.</description>
-    </item>
-    
-    <item>
-      <title>Human Decisions Machine Predictions Reading</title>
-      <link>https://rathoreanirudh.github.io/posts/2020/01/human-decisions-machine-predictions-reading/</link>
-      <pubDate>Sun, 19 Jan 2020 18:16:21 -0700</pubDate>
-      
-      <guid>https://rathoreanirudh.github.io/posts/2020/01/human-decisions-machine-predictions-reading/</guid>
-      <description>This post is for my human centered machine learning class. We are required to read a paper every week and write a summary for it. I am trying to make a habit of writing this blog describing the papers I read.</description>
     </item>
     
   </channel>
