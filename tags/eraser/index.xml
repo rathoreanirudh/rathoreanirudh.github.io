@@ -17,7 +17,8 @@
       <pubDate>Sat, 25 Jan 2020 19:37:54 -0700</pubDate>
       
       <guid>https://rathoreanirudh.github.io/posts/2020/01/eraser/</guid>
-      <description></description>
+      <description>ERASER stands for Evaluating Rationales And Simple English Reasoning benchmark to advance research on interpretable models in NLP. ERASER focuses specifically on rationales which are snippets of text from a source document that support a particular categorization. Moreover, another consideration for rationales is that they are comprehensive rather than simply sufficient.
+Metrics for the datasets  Those based on exact match Ranking metrics that provide a measure of model&#39;s ability to discriminate between evidence and non evidence tokens  </description>
     </item>
     
   </channel>
