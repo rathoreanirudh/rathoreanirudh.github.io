@@ -15,13 +15,28 @@
             
             <guid>https://rathoreanirudh.github.io/posts/2020/01/eraser/</guid>
             <description>ERASER stands for Evaluating Rationales And Simple English Reasoning benchmark to advance research on interpretable models in NLP. ERASER focuses specifically on rationales which are snippets of text from a source document that support a particular categorization. Moreover, another consideration for rationales is that they are comprehensive rather than simply sufficient.
-Metrics for the datasets  Those based on exact match Ranking metrics that provide a measure of model&#39;s ability to discriminate between evidence and non evidence tokens  </description>
+Metrics for evaluation  Assess the degree to which the rationales extacted by a model agree with those highlighted by human annotators.</description>
             <content type="html"><![CDATA[<p>ERASER stands for Evaluating Rationales And Simple English Reasoning benchmark to advance research on interpretable models in NLP. ERASER focuses specifically on rationales which are snippets of text from a source document that support a particular categorization.
 Moreover, another consideration for rationales is that they are comprehensive rather than simply sufficient.</p>
-<h1 id="metrics-for-the-datasets">Metrics for the datasets</h1>
+<h2 id="metrics-for-evaluation">Metrics for evaluation</h2>
 <ul>
-<li>Those based on exact match</li>
+<li>Assess the degree to which the rationales extacted by a model agree with those highlighted by human annotators.</li>
+<li>To measure the exact and a partial match by adopting metrics from NER and object detection.</li>
 <li>Ranking metrics that provide a measure of model's ability to discriminate between evidence and non evidence tokens</li>
+</ul>
+<h2 id="current-datasets-in-eraser">Current datasets in ERASER</h2>
+<ul>
+<li>Evidence Inference</li>
+<li>BoolQ</li>
+<li>Movie Review</li>
+<li>FEVER</li>
+<li>MultiRC</li>
+<li>CoS-E</li>
+<li>e-SNLI</li>
+</ul>
+<h3 id="further-research-inspiration">Further Research inspiration</h3>
+<ul>
+<li>How best to measure the quality of model explanations in the context of NLP</li>
 </ul>
 ]]></content>
         </item>
