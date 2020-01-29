@@ -6,10 +6,19 @@
     <description>Recent content in untagged on Anirudh Rathore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jan 2020 18:16:21 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2020 16:27:54 -0700</lastBuildDate>
     
 	<atom:link href="https://rathoreanirudh.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lime</title>
+      <link>https://rathoreanirudh.github.io/posts/2020/01/lime/</link>
+      <pubDate>Tue, 28 Jan 2020 16:27:54 -0700</pubDate>
+      
+      <guid>https://rathoreanirudh.github.io/posts/2020/01/lime/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Human Decisions Machine Predictions Reading</title>

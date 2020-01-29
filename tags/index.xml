@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Anirudh Rathore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2020 19:37:54 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2020 16:27:54 -0700</lastBuildDate>
     
 	<atom:link href="https://rathoreanirudh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>untagged</title>
+      <link>https://rathoreanirudh.github.io/tags/untagged/</link>
+      <pubDate>Tue, 28 Jan 2020 16:27:54 -0700</pubDate>
+      
+      <guid>https://rathoreanirudh.github.io/tags/untagged/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>eraser</title>
@@ -26,15 +35,6 @@
       <pubDate>Sat, 25 Jan 2020 19:37:54 -0700</pubDate>
       
       <guid>https://rathoreanirudh.github.io/tags/interpretability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>untagged</title>
-      <link>https://rathoreanirudh.github.io/tags/untagged/</link>
-      <pubDate>Sun, 19 Jan 2020 18:16:21 -0700</pubDate>
-      
-      <guid>https://rathoreanirudh.github.io/tags/untagged/</guid>
       <description></description>
     </item>
     
