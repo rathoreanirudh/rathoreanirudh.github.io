@@ -47,6 +47,7 @@ Moreover, another consideration for rationales is that they are comprehensive ra
 <h3 id="further-research-inspiration">Further Research inspiration</h3>
 <ul>
 <li>How best to measure the quality of model explanations in the context of NLP</li>
+<li>problem of designing metrics for evaluating rationales - especially for capturing faithfulness</li>
 </ul>
 ]]></content>
         </item>
