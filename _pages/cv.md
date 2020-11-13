@@ -11,29 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Science, BIT Mesra, 2017
 * M.S. in Computer Science, University of Colorado, Boulder, 2021(expected)
+* B.E. in Computer Science, BIT Mesra, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020: Research Assistant
+  * University of Colorado, Boulder
+  * Supervisor: Prof. Chenhao Tan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Intern
+  * VMware Inc.
+  * Supervisor: Moorthy Raju, Puneet Katyal, Vinay Konanki
+
+* Summer 2020: Member of Technical Staff
+  * VMware Inc.
+  * Supervisor: Sreekanth Indireddy, Jugesh Prasad
   
-Skills
+<!-- Skills
 ======
-* Skill 1
+* Python
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======

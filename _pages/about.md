@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+I am a research based masters student at the University of Colorado, Boulder advised by [Prof. Chenhao Tan](https://chenhaot.com/).
