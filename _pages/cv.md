@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**[PDF](../_data/Anirudh_Rathore_CV_2020.pdf)**
+
 Education
 ======
 * M.S. in Computer Science, University of Colorado, Boulder, 2021(expected)

@@ -15,4 +15,4 @@ Before joining CU, I was a applied machine learning engineer at VMware Inc., Ind
 
 ### News
 
-**2020** Our work on [Evaluating and Characterizing human rationales](https://arxiv.org/abs/2010.04736) will be presented at EMLNP'20
+**Sept 2020** Our work on [Evaluating and Characterizing human rationales](https://arxiv.org/abs/2010.04736) will be presented at EMLNP'20
